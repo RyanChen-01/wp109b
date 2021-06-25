@@ -12,4 +12,5 @@ https://github.com/kubowania/2048
 <pre>
 1.加入背景音樂設計
 2.設定佳績紀錄的排名
+3.設定可重置按鈕
 </pre>

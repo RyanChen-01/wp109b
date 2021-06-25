@@ -201,7 +201,7 @@ document.addEventListener('DOMContentLoaded', () =>  {
         }
       }
       if (zeros === 0) {
-        resultDisplay.innerHTML = '你輸了'
+        resultDisplay.innerHTML = '你輸了<br>想重新開始請按左上方重置'
         document.removeEventListener('keyup', control)
         setTimeout(() => clear(), 3000)
       }
